@@ -1,14 +1,14 @@
 # LeagueSkins Experimental
 
-Preview packages for Sunshine, refreshed for League **16.21**.
+Preview packages for Sunshine, including the latest **16.22** skins and a refreshed PBE collection.
 Package checks passed. Not every package has been tested in game.
 
 ## Collections
 
-- [Champion skins, chromas and forms](skins/) — 9,781 packages
+- [Champion skins, chromas and forms](skins/) — 9,809 packages
 - [Rainbow — switch chromas in game](rainbow/) — 562 packages
-- [PBE skins](PBE/) — 5 skins and 22 chromas
-- [League Classic](classic/) — 1,783 packages for 81 champions
+- [PBE skins](PBE/) — 3 skins and 16 chromas
+- [League Classic](classic/) — 1,803 packages for 84 champions
 
 Ward, emote and Nexus finisher packages remain in the
 [main library](https://github.com/bettie9/LeagueSkins/tree/main).

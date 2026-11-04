@@ -1,5 +1,5 @@
 {
-  "patch": "16.21",
+  "patch": "16.22",
   "champions": {
     "Aatrox": {
       "skins": {
@@ -93,7 +93,8 @@
         "76": "Snow Moon Ahri",
         "85": "Risen Legend Ahri",
         "88": "Spirit Blossom Springs Ahri",
-        "89": "After Hours Spirit Blossom Springs Ahri"
+        "89": "After Hours Spirit Blossom Springs Ahri",
+        "97": "K/DA FIRESTARTER Ahri"
       },
       "chromas": {
         "4": {
@@ -201,6 +202,16 @@
           "93": "Tanzanite",
           "94": "Sapphire",
           "95": "Pearl"
+        },
+        "97": {
+          "98": "Ruby",
+          "99": "Sapphire",
+          "100": "Emerald",
+          "101": "Turquoise",
+          "102": "Catseye",
+          "103": "Amethyst",
+          "104": "Pearl",
+          "105": "Obsidian"
         }
       },
       "forms": {
@@ -234,7 +245,8 @@
         "71": "Prestige Coven Akali",
         "82": "Empyrean Akali",
         "92": "Spirit Blossom Akali",
-        "103": "True Damage Know My Name Akali"
+        "103": "True Damage Know My Name Akali",
+        "102": "K/DA FIRESTARTER Ignition Akali"
       },
       "chromas": {
         "7": {
@@ -2349,7 +2361,9 @@
         "42": "Soul Fighter Evelynn",
         "52": "High Noon Evelynn",
         "53": "Prestige High Noon Evelynn",
-        "64": "Nightbringer Evelynn"
+        "64": "Nightbringer Evelynn",
+        "65": "K/DA FIRESTARTER Evelynn",
+        "66": "K/DA Hitmaker Evelynn"
       },
       "chromas": {
         "8": {
@@ -2411,6 +2425,14 @@
           "61": "Obsidian",
           "62": "Noonday",
           "63": "Vendetta"
+        },
+        "65": {
+          "67": "Obsidian",
+          "68": "Ruby",
+          "69": "Catseye",
+          "70": "Sapphire",
+          "71": "Tanzanite",
+          "72": "Pearl"
         }
       },
       "forms": {
@@ -3145,7 +3167,8 @@
           "44": "Turquoise",
           "45": "Rose Quartz",
           "46": "Obsidian",
-          "47": "Pearl"
+          "47": "Pearl",
+          "49": "FIRESTARTER"
         }
       },
       "forms": {}
@@ -4211,7 +4234,8 @@
         "48": "Inkshadow Kai'Sa",
         "59": "Heavenscale Kai'Sa",
         "69": "Dark Star Kai'Sa",
-        "70": "Risen Legend Kai'Sa"
+        "70": "Risen Legend Kai'Sa",
+        "83": "K/DA FIRESTARTER Kai'Sa"
       },
       "chromas": {
         "1": {
@@ -4294,6 +4318,16 @@
           "78": "Amethyst",
           "79": "Pearl",
           "80": "Quasar"
+        },
+        "83": {
+          "84": "Ruby",
+          "85": "Tanzanite",
+          "86": "Sapphire",
+          "87": "Emerald",
+          "88": "Citrine",
+          "89": "Turquoise",
+          "90": "Pearl",
+          "91": "Obsidian"
         }
       },
       "forms": {
