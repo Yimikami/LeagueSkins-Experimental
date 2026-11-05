@@ -1,13 +1,18 @@
 # PBE skins
 
-3 skins and 16 chromas prepared for live League **16.22**.
+Prepared for live League **16.22**.
 
-- DJ Sona Ultimate Remix
-- Cafe Cuties Zoe
-- Cafe Cuties Neeko
+DJ Sona Ultimate Remix is available as three separate forms:
 
-Download a package, import it into Sunshine, and select the champion's default skin. Use one skin or chroma per champion. Replace older PBE copies before combining packages.
+- [Blue](<skins/Sona/DJ Sona Ultimate Remix (Blue).fantome>)
+- [Pink](<skins/Sona/DJ Sona Ultimate Remix (Pink).fantome>)
+- [Yellow](<skins/Sona/DJ Sona Ultimate Remix (Yellow).fantome>)
 
-Package checks passed. These new packages still need in-game testing. A PBE installation is not required.
+Choose one Sona form at a time. Each keeps its own appearance and music; Ctrl+5 does not switch forms.
+
+Cafe Cuties Zoe and Cafe Cuties Neeko, including their chromas, remain available.
+
+Import a package and select the champion's default skin. Replace older copies before combining packages.
+Package checks passed; in-game testing is still needed.
 
 [Browse the catalog](index.json) · [Back to the library](../README.md)

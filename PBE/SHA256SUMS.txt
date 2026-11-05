@@ -1,4 +1,4 @@
-44d56cfe29a0a792e2ce891ee6ce4cdbda0f6887fac65e5071d344f7eef4c15c  skins/Sona/DJ Sona Ultimate Remix.fantome
+bf2c465f59d967676cc8d1879b99ef9df7fb356e976e2da48c84214e3fb61de6  skins/Sona/DJ Sona Ultimate Remix (Blue).fantome
 2f2245cbd5101d328b870235d4e04d12bb6e4835350525a3705690bba32ad04d  skins/Zoe/Cafe Cuties Zoe.fantome
 b284711ffdc9598370722ef34cf5cc4941a25689c9fbbc5eaeda031b48addbc5  skins/Neeko/Cafe Cuties Neeko.fantome
 e0cbe54e46390545b2fb2f084a182437bebb652e2c73c744e682c4cd6400cae2  skins/Zoe/Cafe Cuties Zoe/Ruby.fantome
@@ -17,3 +17,5 @@ d567b5942bd0780ef8eb256de0273300a012fa8fbf87e515902fd703b66d6f29  skins/Neeko/Ca
 b94728ec30c11475941f6a541412bd9285e80b0847ab02e9ed94cdf6d91b0ba7  skins/Neeko/Cafe Cuties Neeko/Catseye.fantome
 7965735676f41a27da7681a98b665c8cac4d2f4c1ef345780dbf24589c8e74a5  skins/Neeko/Cafe Cuties Neeko/Jasper.fantome
 dd1f0cb6c255583e65d9926969c7554f70d735cfda26a1c9c720d5b619e59a4f  skins/Neeko/Cafe Cuties Neeko/Peridot.fantome
+1dc944f031e7343959d7dc4353e152e72f01575753c43570b9d5f88bd5e109b0  skins/Sona/DJ Sona Ultimate Remix (Pink).fantome
+d1e4606b42bde449f6e6ba2c64f05985cb120408cf0ba05a5e5d288971b79bc8  skins/Sona/DJ Sona Ultimate Remix (Yellow).fantome

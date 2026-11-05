@@ -7,18 +7,21 @@
   "packages": [
     {
       "id": 37077,
-      "name": "DJ Sona Ultimate Remix",
+      "name": "DJ Sona Ultimate Remix (Blue)",
       "champion": "Sona",
       "chroma": false,
-      "bytes": 85505892,
-      "sha256": "44d56cfe29a0a792e2ce891ee6ce4cdbda0f6887fac65e5071d344f7eef4c15c",
+      "bytes": 85508263,
+      "sha256": "bf2c465f59d967676cc8d1879b99ef9df7fb356e976e2da48c84214e3fb61de6",
       "championId": 37,
-      "path": "skins/Sona/DJ Sona Ultimate Remix.fantome",
+      "path": "skins/Sona/DJ Sona Ultimate Remix (Blue).fantome",
       "runtimeVerified": false,
       "targetSkinId": 0,
-      "version": "0.6.0",
+      "form": 0,
+      "version": "0.6.1",
       "packageVerified": true,
-      "targetGameVersion": "16.22.834.8910"
+      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/B2A47A6E19BCE402.manifest",
+      "sourceBuild": "16.23.8355229+branch.main.content.beta",
+      "packageKey": "37077-form-0"
     },
     {
       "id": 142045,
@@ -307,10 +310,10 @@
       "targetGameVersion": "16.22.834.8910"
     }
   ],
-  "updatedAt": "2026-11-04",
+  "updatedAt": "2026-11-05",
   "skinCount": 3,
   "chromaCount": 16,
-  "packageCount": 19,
+  "packageCount": 21,
   "packageVersion": "0.6.0",
   "onePbePackageAtATime": false,
   "runtimeVerification": {
@@ -318,8 +321,47 @@
     "packageIds": []
   },
   "packageVerification": {
-    "date": "2026-11-04",
-    "count": 19,
+    "date": "2026-11-05",
+    "count": 21,
     "gameVersion": "16.22.834.8910"
-  }
+  },
+  "formPackages": [
+    {
+      "id": 37077,
+      "name": "DJ Sona Ultimate Remix (Pink)",
+      "champion": "Sona",
+      "chroma": false,
+      "bytes": 85508603,
+      "sha256": "1dc944f031e7343959d7dc4353e152e72f01575753c43570b9d5f88bd5e109b0",
+      "championId": 37,
+      "path": "skins/Sona/DJ Sona Ultimate Remix (Pink).fantome",
+      "runtimeVerified": false,
+      "targetSkinId": 0,
+      "form": 1,
+      "version": "0.6.1",
+      "packageVerified": true,
+      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/B2A47A6E19BCE402.manifest",
+      "sourceBuild": "16.23.8355229+branch.main.content.beta",
+      "packageKey": "37077-form-1"
+    },
+    {
+      "id": 37077,
+      "name": "DJ Sona Ultimate Remix (Yellow)",
+      "champion": "Sona",
+      "chroma": false,
+      "bytes": 85508624,
+      "sha256": "d1e4606b42bde449f6e6ba2c64f05985cb120408cf0ba05a5e5d288971b79bc8",
+      "championId": 37,
+      "path": "skins/Sona/DJ Sona Ultimate Remix (Yellow).fantome",
+      "runtimeVerified": false,
+      "targetSkinId": 0,
+      "form": 2,
+      "version": "0.6.1",
+      "packageVerified": true,
+      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/B2A47A6E19BCE402.manifest",
+      "sourceBuild": "16.23.8355229+branch.main.content.beta",
+      "packageKey": "37077-form-2"
+    }
+  ],
+  "formCount": 3
 }
